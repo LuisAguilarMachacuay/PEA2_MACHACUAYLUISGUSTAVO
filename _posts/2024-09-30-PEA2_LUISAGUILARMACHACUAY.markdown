@@ -18,9 +18,10 @@ print_hi('Tom')
 {% endhighlight %}
 
 Si estas buscando Opciones de Navegadores estos pueden ser buenas alternativas:
--Opera Browser  [Opera-Browser][link_1] 
--OperaGX  version Gamer [OperaGX][link_2]
--Edge [Microsoft-Edge][link_3] 
+
+Opera Browser  [Opera-Browser][link_1] 
+, OperaGX  version Gamer [OperaGX][link_2]
+, Edge [Microsoft-Edge][link_3] 
 
 [link_1]: https://www.opera.com/es?msockid=05b57c6063ce688018b0688d62236941
 [link_2]: https://www.opera.com/es/gx?msockid=05b57c6063ce688018b0688d62236941
